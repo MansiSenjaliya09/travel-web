@@ -1,0 +1,55 @@
+#navcolor {
+    background-color: #002a5b92;
+  }
+*{
+    box-sizing: border-box;
+  }
+  /* ==================(bacground image)================================= */
+#bodyy {
+    background-image: url(/Timg/bg\(9\).gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    height: 100%;
+    width: 100%;
+  }
+  /* =========================(feture)======================================================= */
+
+  #dark {
+    background-color: rgba(3, 12, 20, 0.233);
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+  /* ================(text)============================================ */
+.spann {
+    font-family: "Fredericka the Great", cursive;
+    color: rgb(22, 228, 243);
+  }
+  .menutexxt {
+    font-size: 45px;
+    letter-spacing: 0.2vw;
+    font-weight: 30px;
+    font-family: "Lilita One", cursive;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.74);
+  
+  }
+  .smal {
+    font-size: 18px;
+    letter-spacing: 0.3vw;
+  }
+  /* ---------------------------------------------------------- */
+  .spannn {
+    font-family: "Fredericka the Great", cursive;
+    color: rgb(41, 196, 180);
+  }
+  .menutext {
+    font-size: 45px;
+    letter-spacing: 0.2vw;
+    font-weight: 30px;
+    font-family: "Lilita One", cursive;
+  }
+  .smal {
+    font-size: 18px;
+    letter-spacing: 0.3vw;
+  }
